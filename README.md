@@ -1,4 +1,3 @@
-[landing_page_consultoria_v2.html](https://github.com/user-attachments/files/27408526/landing_page_consultoria_v2.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
